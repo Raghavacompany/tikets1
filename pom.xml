@@ -4,7 +4,7 @@
 
   <groupId>movie_code</groupId>
   <artifactId>booking</artifactId>
-  <packaging>jar</packaging>
+  <packaging>war</packaging>
   <version>v2</version>
   <name>booking</name>
 
